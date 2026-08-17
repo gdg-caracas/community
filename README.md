@@ -6,7 +6,7 @@
 
 Espacio oficial de **Google Developer Group Caracas** para conversaciones, propuestas, colaboración y participación de la comunidad.
 
-[![Discussions](https://img.shields.io/badge/Participar_en-Discussions-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/discussions)
+[![Discussions](https://img.shields.io/badge/Participar_en_Discussions-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/discussions)
 [![Eventos](https://img.shields.io/badge/Ser_miembro_y_eventos-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
 [![Participa](https://img.shields.io/badge/Proponer_una_actividad-EA4335?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header)
 
